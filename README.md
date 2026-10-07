@@ -1,4 +1,4 @@
-# Noor Backend — No MongoDB Version
+# Noor
 
 This version runs with **Express + JWT + bcrypt + in-memory storage**. MongoDB is NOT required.
 
